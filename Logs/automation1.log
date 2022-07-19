@@ -1,0 +1,81 @@
+POST http://localhost:51407/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "firefox", "acceptInsecureCerts": true, "moz:debuggerAddress": true, "pageLoadStrategy": "normal"}}}
+Starting new HTTP connection (1): localhost:51407
+http://localhost:51407 "POST /session HTTP/1.1" 200 787
+Remote response: status=200 | data={"value":{"sessionId":"d11ef5ef-cd1c-449f-b068-6c2c4554247f","capabilities":{"acceptInsecureCerts":true,"browserName":"firefox","browserVersion":"102.0.1","moz:accessibilityChecks":false,"moz:buildID":"20220705093820","moz:debuggerAddress":"localhost:51408","moz:geckodriverVersion":"0.31.0","moz:headless":false,"moz:processID":29232,"moz:profile":"C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofile2jqD1x","moz:shutdownTimeout":60000,"moz:useNonSpecCompliantPointerOrigin":false,"moz:webdriverClick":true,"moz:windowless":false,"pageLoadStrategy":"normal","platformName":"windows","platformVersion":"10.0","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify"}}} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '787', 'date': 'Sat, 16 Jul 2022 22:33:07 GMT'})
+Finished Request
+***********Test_001_Login**************
+*************** Verifying Homepage Title **********
+POST http://localhost:51407/session/d11ef5ef-cd1c-449f-b068-6c2c4554247f/url {"url": "https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F"}
+http://localhost:51407 "POST /session/d11ef5ef-cd1c-449f-b068-6c2c4554247f/url HTTP/1.1" 200 14
+Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '14', 'date': 'Sat, 16 Jul 2022 22:33:10 GMT'})
+Finished Request
+GET http://localhost:51407/session/d11ef5ef-cd1c-449f-b068-6c2c4554247f/title {}
+http://localhost:51407 "GET /session/d11ef5ef-cd1c-449f-b068-6c2c4554247f/title HTTP/1.1" 200 29
+Remote response: status=200 | data={"value":"Your store. Login"} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '29', 'date': 'Sat, 16 Jul 2022 22:33:11 GMT'})
+Finished Request
+DELETE http://localhost:51407/session/d11ef5ef-cd1c-449f-b068-6c2c4554247f/window {}
+http://localhost:51407 "DELETE /session/d11ef5ef-cd1c-449f-b068-6c2c4554247f/window HTTP/1.1" 200 12
+Remote response: status=200 | data={"value":[]} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '12', 'date': 'Sat, 16 Jul 2022 22:33:11 GMT'})
+Finished Request
+*******test_homepage Passed !******
+POST http://localhost:51456/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "firefox", "acceptInsecureCerts": true, "moz:debuggerAddress": true, "pageLoadStrategy": "normal"}}}
+Starting new HTTP connection (1): localhost:51456
+http://localhost:51456 "POST /session HTTP/1.1" 200 787
+Remote response: status=200 | data={"value":{"sessionId":"d92288c7-08de-41ce-b877-826af47bae50","capabilities":{"acceptInsecureCerts":true,"browserName":"firefox","browserVersion":"102.0.1","moz:accessibilityChecks":false,"moz:buildID":"20220705093820","moz:debuggerAddress":"localhost:51457","moz:geckodriverVersion":"0.31.0","moz:headless":false,"moz:processID":11756,"moz:profile":"C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileUQRrBv","moz:shutdownTimeout":60000,"moz:useNonSpecCompliantPointerOrigin":false,"moz:webdriverClick":true,"moz:windowless":false,"pageLoadStrategy":"normal","platformName":"windows","platformVersion":"10.0","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify"}}} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '787', 'date': 'Sat, 16 Jul 2022 22:33:15 GMT'})
+Finished Request
+POST http://localhost:51456/session/d92288c7-08de-41ce-b877-826af47bae50/url {"url": "https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F"}
+http://localhost:51456 "POST /session/d92288c7-08de-41ce-b877-826af47bae50/url HTTP/1.1" 200 14
+Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '14', 'date': 'Sat, 16 Jul 2022 22:33:17 GMT'})
+Finished Request
+POST http://localhost:51456/session/d92288c7-08de-41ce-b877-826af47bae50/timeouts {"implicit": 5000}
+http://localhost:51456 "POST /session/d92288c7-08de-41ce-b877-826af47bae50/timeouts HTTP/1.1" 200 14
+Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '14', 'date': 'Sat, 16 Jul 2022 22:33:21 GMT'})
+Finished Request
+POST http://localhost:51456/session/d92288c7-08de-41ce-b877-826af47bae50/element {"using": "xpath", "value": "//*[@id='Email']"}
+http://localhost:51456 "POST /session/d92288c7-08de-41ce-b877-826af47bae50/element HTTP/1.1" 200 88
+Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"2cfd5f8d-b0de-4e4b-a78a-f883763272d1"}} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '88', 'date': 'Sat, 16 Jul 2022 22:33:21 GMT'})
+Finished Request
+POST http://localhost:51456/session/d92288c7-08de-41ce-b877-826af47bae50/element/2cfd5f8d-b0de-4e4b-a78a-f883763272d1/clear {"id": "2cfd5f8d-b0de-4e4b-a78a-f883763272d1"}
+http://localhost:51456 "POST /session/d92288c7-08de-41ce-b877-826af47bae50/element/2cfd5f8d-b0de-4e4b-a78a-f883763272d1/clear HTTP/1.1" 200 14
+Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '14', 'date': 'Sat, 16 Jul 2022 22:33:21 GMT'})
+Finished Request
+POST http://localhost:51456/session/d92288c7-08de-41ce-b877-826af47bae50/element {"using": "xpath", "value": "//*[@id='Email']"}
+http://localhost:51456 "POST /session/d92288c7-08de-41ce-b877-826af47bae50/element HTTP/1.1" 200 88
+Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"2cfd5f8d-b0de-4e4b-a78a-f883763272d1"}} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '88', 'date': 'Sat, 16 Jul 2022 22:33:23 GMT'})
+Finished Request
+POST http://localhost:51456/session/d92288c7-08de-41ce-b877-826af47bae50/element/2cfd5f8d-b0de-4e4b-a78a-f883763272d1/value {"text": "admin@yourstore.com", "value": ["a", "d", "m", "i", "n", "@", "y", "o", "u", "r", "s", "t", "o", "r", "e", ".", "c", "o", "m"], "id": "2cfd5f8d-b0de-4e4b-a78a-f883763272d1"}
+http://localhost:51456 "POST /session/d92288c7-08de-41ce-b877-826af47bae50/element/2cfd5f8d-b0de-4e4b-a78a-f883763272d1/value HTTP/1.1" 200 14
+Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '14', 'date': 'Sat, 16 Jul 2022 22:33:23 GMT'})
+Finished Request
+POST http://localhost:51456/session/d92288c7-08de-41ce-b877-826af47bae50/element {"using": "xpath", "value": "//*[@id='Password']"}
+http://localhost:51456 "POST /session/d92288c7-08de-41ce-b877-826af47bae50/element HTTP/1.1" 200 88
+Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"b011bca0-2b5c-483c-9197-728914ccda5d"}} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '88', 'date': 'Sat, 16 Jul 2022 22:33:23 GMT'})
+Finished Request
+POST http://localhost:51456/session/d92288c7-08de-41ce-b877-826af47bae50/element/b011bca0-2b5c-483c-9197-728914ccda5d/clear {"id": "b011bca0-2b5c-483c-9197-728914ccda5d"}
+http://localhost:51456 "POST /session/d92288c7-08de-41ce-b877-826af47bae50/element/b011bca0-2b5c-483c-9197-728914ccda5d/clear HTTP/1.1" 200 14
+Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '14', 'date': 'Sat, 16 Jul 2022 22:33:23 GMT'})
+Finished Request
+POST http://localhost:51456/session/d92288c7-08de-41ce-b877-826af47bae50/element {"using": "xpath", "value": "//*[@id='Password']"}
+http://localhost:51456 "POST /session/d92288c7-08de-41ce-b877-826af47bae50/element HTTP/1.1" 200 88
+Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"b011bca0-2b5c-483c-9197-728914ccda5d"}} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '88', 'date': 'Sat, 16 Jul 2022 22:33:25 GMT'})
+Finished Request
+POST http://localhost:51456/session/d92288c7-08de-41ce-b877-826af47bae50/element/b011bca0-2b5c-483c-9197-728914ccda5d/value {"text": "admin", "value": ["a", "d", "m", "i", "n"], "id": "b011bca0-2b5c-483c-9197-728914ccda5d"}
+http://localhost:51456 "POST /session/d92288c7-08de-41ce-b877-826af47bae50/element/b011bca0-2b5c-483c-9197-728914ccda5d/value HTTP/1.1" 200 14
+Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '14', 'date': 'Sat, 16 Jul 2022 22:33:25 GMT'})
+Finished Request
+POST http://localhost:51456/session/d92288c7-08de-41ce-b877-826af47bae50/element {"using": "xpath", "value": "/html/body/div[6]/div/div/div/div/div[2]/div[1]/div/form/div[3]/button"}
+http://localhost:51456 "POST /session/d92288c7-08de-41ce-b877-826af47bae50/element HTTP/1.1" 200 88
+Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"3be7b77c-d40c-4802-ab2f-229097e000d3"}} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '88', 'date': 'Sat, 16 Jul 2022 22:33:25 GMT'})
+Finished Request
+POST http://localhost:51456/session/d92288c7-08de-41ce-b877-826af47bae50/element/3be7b77c-d40c-4802-ab2f-229097e000d3/click {"id": "3be7b77c-d40c-4802-ab2f-229097e000d3"}
+http://localhost:51456 "POST /session/d92288c7-08de-41ce-b877-826af47bae50/element/3be7b77c-d40c-4802-ab2f-229097e000d3/click HTTP/1.1" 200 14
+Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '14', 'date': 'Sat, 16 Jul 2022 22:33:25 GMT'})
+Finished Request
+GET http://localhost:51456/session/d92288c7-08de-41ce-b877-826af47bae50/title {}
+http://localhost:51456 "GET /session/d92288c7-08de-41ce-b877-826af47bae50/title HTTP/1.1" 200 50
+Remote response: status=200 | data={"value":"Dashboard / nopCommerce administration"} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '50', 'date': 'Sat, 16 Jul 2022 22:33:26 GMT'})
+Finished Request
+DELETE http://localhost:51456/session/d92288c7-08de-41ce-b877-826af47bae50/window {}
+http://localhost:51456 "DELETE /session/d92288c7-08de-41ce-b877-826af47bae50/window HTTP/1.1" 200 12
+Remote response: status=200 | data={"value":[]} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '12', 'date': 'Sat, 16 Jul 2022 22:33:26 GMT'})
+Finished Request

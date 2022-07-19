@@ -1,0 +1,374 @@
+***********Test_001_Login**************
+*************** Verifying Homepage Title **********
+%%%%%%%%%%%% Test_homepage Failed .....  %%%%%%%%
+************ Login Test case Passed *********
+2022-07-16 17:54:16,060 - root - INFO - ***********Test_001_Login**************
+2022-07-16 17:54:16,061 - root - INFO - *************** Verifying Homepage Title **********
+2022-07-16 17:54:20,042 - root - ERROR - %%%%%%%%%%%% Test_homepage Failed .....  %%%%%%%%
+2022-07-16 17:54:31,106 - root - INFO - ************ Login Test case Passed *********
+2022-07-16 18:22:42,924 - root - INFO - **** Passed*******
+2022-07-16 18:22:57,284 - root - INFO - *****Passed*****
+2022-07-16 18:33:26,418 - root - INFO - **** Passed*******
+2022-07-16 18:33:40,724 - root - INFO - *****Passed*****
+2022-07-16 18:38:55,397 - root - INFO - ******* Test_002 Login started **********
+2022-07-16 18:39:09,898 - root - INFO - **** Passed*******
+2022-07-16 18:39:24,064 - root - INFO - *****Passed*****
+2022-07-18 15:14:39,747 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 15:14:49,258 - root - INFO - *****Login Successful********
+2022-07-18 15:14:49,258 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 15:16:40,546 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 15:16:50,259 - root - INFO - *****Login Successful********
+2022-07-18 15:16:50,259 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 15:18:21,822 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 15:18:31,367 - root - INFO - *****Login Successful********
+2022-07-18 15:18:31,367 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 15:18:33,000 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 15:20:49,314 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 15:21:00,213 - root - INFO - *****Login Successful********
+2022-07-18 15:21:00,213 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 15:21:03,170 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 15:22:19,138 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 15:22:28,772 - root - INFO - *****Login Successful********
+2022-07-18 15:22:28,772 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 15:22:30,300 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 15:26:04,333 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 15:26:14,225 - root - INFO - *****Login Successful********
+2022-07-18 15:26:14,225 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 15:26:15,792 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 15:41:21,435 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 15:41:31,173 - root - INFO - *****Login Successful********
+2022-07-18 15:41:31,173 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 15:41:32,815 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 15:47:21,266 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 15:47:59,078 - root - INFO - *****Login Successful********
+2022-07-18 15:47:59,078 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 15:48:04,512 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 15:49:46,378 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 15:49:56,490 - root - INFO - *****Login Successful********
+2022-07-18 15:49:56,490 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 15:49:58,469 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 15:50:09,706 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 15:50:09,706 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 15:51:46,656 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 15:51:56,334 - root - INFO - *****Login Successful********
+2022-07-18 15:51:56,334 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 15:51:57,865 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 15:52:08,958 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 15:52:08,959 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 15:55:25,886 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 15:55:35,335 - root - INFO - *****Login Successful********
+2022-07-18 15:55:35,336 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 15:55:36,966 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 15:55:47,999 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 15:55:47,999 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 15:57:26,852 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 15:57:36,514 - root - INFO - *****Login Successful********
+2022-07-18 15:57:36,514 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 15:57:38,043 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 15:57:49,153 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 15:57:49,153 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 16:02:39,353 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 16:02:50,418 - root - INFO - *****Login Successful********
+2022-07-18 16:02:50,418 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 16:02:53,697 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 16:03:04,876 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 16:03:04,876 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 16:04:52,594 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 16:05:02,384 - root - INFO - *****Login Successful********
+2022-07-18 16:05:02,384 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 16:05:04,094 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 16:05:15,227 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 16:05:15,227 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 16:07:48,708 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 16:07:58,454 - root - INFO - *****Login Successful********
+2022-07-18 16:07:58,454 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 16:08:00,044 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 16:08:11,177 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 16:08:11,177 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 16:09:25,588 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 16:09:35,373 - root - INFO - *****Login Successful********
+2022-07-18 16:09:35,373 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 16:09:36,910 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 16:16:04,815 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 16:16:14,471 - root - INFO - *****Login Successful********
+2022-07-18 16:16:14,471 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 16:16:16,055 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 16:42:54,960 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 16:43:04,558 - root - INFO - *****Login Successful********
+2022-07-18 16:43:04,558 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 16:43:06,069 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 16:43:44,278 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 16:43:53,818 - root - INFO - *****Login Successful********
+2022-07-18 16:43:53,818 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 16:43:55,367 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 16:45:33,111 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 16:45:42,992 - root - INFO - *****Login Successful********
+2022-07-18 16:45:42,993 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 16:45:44,803 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 16:45:55,856 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 16:45:55,857 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 17:36:20,488 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 17:36:30,409 - root - INFO - *****Login Successful********
+2022-07-18 17:36:30,409 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 17:36:33,588 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 17:36:40,907 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 17:36:40,907 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 17:37:46,951 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 17:37:56,272 - root - INFO - *****Login Successful********
+2022-07-18 17:37:56,272 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 17:37:57,822 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 17:38:02,310 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 17:38:02,310 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 17:41:54,154 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 17:42:03,743 - root - INFO - *****Login Successful********
+2022-07-18 17:42:03,743 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 17:42:05,212 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 17:42:09,485 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 17:42:09,485 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 17:42:09,997 - root - ERROR - ******** Add Customer Testcase Failed ********
+2022-07-18 17:45:16,872 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 17:45:26,787 - root - INFO - *****Login Successful********
+2022-07-18 17:45:26,788 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 17:45:28,248 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 17:45:32,899 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 17:45:32,900 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 17:45:33,081 - root - ERROR - ******** Add Customer Testcase Failed ********
+2022-07-18 17:47:33,614 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 17:48:02,846 - root - INFO - *****Login Successful********
+2022-07-18 17:48:02,846 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 17:48:08,162 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 17:48:12,669 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 17:48:12,670 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 17:48:12,851 - root - ERROR - ******** Add Customer Testcase Failed ********
+2022-07-18 17:56:20,431 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 17:56:30,035 - root - INFO - *****Login Successful********
+2022-07-18 17:56:30,035 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 17:56:31,544 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 17:56:36,168 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 17:56:36,168 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 17:56:36,336 - root - ERROR - ******** Add Customer Testcase Failed ********
+2022-07-18 18:04:02,837 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 18:04:12,438 - root - INFO - *****Login Successful********
+2022-07-18 18:04:12,438 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 18:04:13,982 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 18:04:18,264 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 18:04:18,264 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 18:04:18,462 - root - ERROR - ******** Add Customer Testcase Failed ********
+2022-07-18 18:11:54,525 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 18:12:04,369 - root - INFO - *****Login Successful********
+2022-07-18 18:12:04,370 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 18:12:05,898 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 18:12:10,143 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 18:12:10,143 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 18:12:10,547 - root - ERROR - ******** Add Customer Testcase Failed ********
+2022-07-18 21:04:31,815 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 21:04:41,612 - root - INFO - *****Login Successful********
+2022-07-18 21:04:41,612 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 21:04:45,685 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 21:04:50,329 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 21:04:50,329 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 21:04:50,482 - root - ERROR - ******** Add Customer Testcase Failed ********
+2022-07-18 21:13:55,540 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 21:13:55,540 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 21:13:55,540 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 21:14:05,277 - root - INFO - *****Login Successful********
+2022-07-18 21:14:05,277 - root - INFO - *****Login Successful********
+2022-07-18 21:14:05,277 - root - INFO - *****Login Successful********
+2022-07-18 21:14:05,277 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 21:14:05,277 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 21:14:05,277 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 21:14:06,747 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 21:14:06,747 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 21:14:06,747 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 21:14:11,051 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 21:14:11,051 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 21:14:11,051 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 21:14:11,052 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 21:14:11,052 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 21:14:11,052 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 21:14:11,217 - root - ERROR - ******** Add Customer Testcase Failed ********
+2022-07-18 21:14:11,217 - root - ERROR - ******** Add Customer Testcase Failed ********
+2022-07-18 21:14:11,217 - root - ERROR - ******** Add Customer Testcase Failed ********
+2022-07-18 21:14:21,942 - root - INFO - ************ Login Test case Passed *********
+2022-07-18 21:14:21,942 - root - INFO - ************ Login Test case Passed *********
+2022-07-18 21:14:21,942 - root - INFO - ************ Login Test case Passed *********
+2022-07-18 21:49:51,334 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 21:49:51,334 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 21:49:51,334 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-18 21:50:05,904 - root - INFO - *****Login Successful********
+2022-07-18 21:50:05,904 - root - INFO - *****Login Successful********
+2022-07-18 21:50:05,904 - root - INFO - *****Login Successful********
+2022-07-18 21:50:05,904 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 21:50:05,904 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 21:50:05,904 - root - INFO - ******* Starting Add Customer*******
+2022-07-18 21:50:11,066 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 21:50:11,066 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 21:50:11,066 - root - INFO - ********* Adding Customer Details *******
+2022-07-18 21:50:15,923 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 21:50:15,923 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 21:50:15,923 - root - INFO - ****** Saving Customer Info ********
+2022-07-18 21:50:15,923 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 21:50:15,923 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 21:50:15,923 - root - INFO - ********* Add customer Validation started ********
+2022-07-18 21:50:16,223 - root - ERROR - ******** Add Customer Testcase Failed ********
+2022-07-18 21:50:16,223 - root - ERROR - ******** Add Customer Testcase Failed ********
+2022-07-18 21:50:16,223 - root - ERROR - ******** Add Customer Testcase Failed ********
+2022-07-18 21:50:27,388 - root - INFO - ************ Login Test case Passed *********
+2022-07-18 21:50:27,388 - root - INFO - ************ Login Test case Passed *********
+2022-07-18 21:50:27,388 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 15:56:34,696 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 15:56:34,696 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 15:56:34,696 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 15:56:44,949 - root - INFO - *****Login Successful********
+2022-07-19 15:56:44,949 - root - INFO - *****Login Successful********
+2022-07-19 15:56:44,949 - root - INFO - *****Login Successful********
+2022-07-19 15:56:44,949 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 15:56:44,949 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 15:56:44,949 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 15:56:50,053 - root - INFO - ********* Adding Customer Details *******
+2022-07-19 15:56:50,053 - root - INFO - ********* Adding Customer Details *******
+2022-07-19 15:56:50,053 - root - INFO - ********* Adding Customer Details *******
+2022-07-19 15:56:54,978 - root - INFO - ****** Saving Customer Info ********
+2022-07-19 15:56:54,978 - root - INFO - ****** Saving Customer Info ********
+2022-07-19 15:56:54,978 - root - INFO - ****** Saving Customer Info ********
+2022-07-19 15:56:54,978 - root - INFO - ********* Add customer Validation started ********
+2022-07-19 15:56:54,978 - root - INFO - ********* Add customer Validation started ********
+2022-07-19 15:56:54,978 - root - INFO - ********* Add customer Validation started ********
+2022-07-19 15:56:55,174 - root - ERROR - ******** Add Customer Testcase Failed ********
+2022-07-19 15:56:55,174 - root - ERROR - ******** Add Customer Testcase Failed ********
+2022-07-19 15:56:55,174 - root - ERROR - ******** Add Customer Testcase Failed ********
+2022-07-19 15:57:08,561 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 15:57:08,561 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 15:57:08,561 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 15:58:49,459 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 15:58:49,459 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 15:58:49,459 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 15:58:59,394 - root - INFO - *****Login Successful********
+2022-07-19 15:58:59,394 - root - INFO - *****Login Successful********
+2022-07-19 15:58:59,394 - root - INFO - *****Login Successful********
+2022-07-19 15:58:59,394 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 15:58:59,394 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 15:58:59,394 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 15:59:01,494 - root - INFO - ********* Adding Customer Details *******
+2022-07-19 15:59:01,494 - root - INFO - ********* Adding Customer Details *******
+2022-07-19 15:59:01,494 - root - INFO - ********* Adding Customer Details *******
+2022-07-19 15:59:06,295 - root - INFO - ****** Saving Customer Info ********
+2022-07-19 15:59:06,295 - root - INFO - ****** Saving Customer Info ********
+2022-07-19 15:59:06,295 - root - INFO - ****** Saving Customer Info ********
+2022-07-19 15:59:06,295 - root - INFO - ********* Add customer Validation started ********
+2022-07-19 15:59:06,295 - root - INFO - ********* Add customer Validation started ********
+2022-07-19 15:59:06,295 - root - INFO - ********* Add customer Validation started ********
+2022-07-19 15:59:06,546 - root - INFO - ***** Add Customer Testcase Passed *******
+2022-07-19 15:59:06,546 - root - INFO - ***** Add Customer Testcase Passed *******
+2022-07-19 15:59:06,546 - root - INFO - ***** Add Customer Testcase Passed *******
+2022-07-19 15:59:18,213 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 15:59:18,213 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 15:59:18,213 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 16:01:04,220 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 16:01:04,220 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 16:01:04,220 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 16:01:14,812 - root - INFO - *****Login Successful********
+2022-07-19 16:01:14,812 - root - INFO - *****Login Successful********
+2022-07-19 16:01:14,812 - root - INFO - *****Login Successful********
+2022-07-19 16:01:14,812 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 16:01:14,812 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 16:01:14,812 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 16:01:18,145 - root - INFO - ********* Adding Customer Details *******
+2022-07-19 16:01:18,145 - root - INFO - ********* Adding Customer Details *******
+2022-07-19 16:01:18,145 - root - INFO - ********* Adding Customer Details *******
+2022-07-19 16:01:23,123 - root - INFO - ****** Saving Customer Info ********
+2022-07-19 16:01:23,123 - root - INFO - ****** Saving Customer Info ********
+2022-07-19 16:01:23,123 - root - INFO - ****** Saving Customer Info ********
+2022-07-19 16:01:23,123 - root - INFO - ********* Add customer Validation started ********
+2022-07-19 16:01:23,123 - root - INFO - ********* Add customer Validation started ********
+2022-07-19 16:01:23,123 - root - INFO - ********* Add customer Validation started ********
+2022-07-19 16:01:23,164 - root - INFO - ***** Add Customer Testcase Passed *******
+2022-07-19 16:01:23,164 - root - INFO - ***** Add Customer Testcase Passed *******
+2022-07-19 16:01:23,164 - root - INFO - ***** Add Customer Testcase Passed *******
+2022-07-19 16:01:36,549 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 16:01:36,549 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 16:01:36,549 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 16:02:00,685 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 16:02:00,685 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 16:02:00,685 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 16:02:10,948 - root - INFO - *****Login Successful********
+2022-07-19 16:02:10,948 - root - INFO - *****Login Successful********
+2022-07-19 16:02:10,948 - root - INFO - *****Login Successful********
+2022-07-19 16:02:10,948 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 16:02:10,948 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 16:02:10,948 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 16:02:13,116 - root - INFO - ********* Adding Customer Details *******
+2022-07-19 16:02:13,116 - root - INFO - ********* Adding Customer Details *******
+2022-07-19 16:02:13,116 - root - INFO - ********* Adding Customer Details *******
+2022-07-19 16:02:17,978 - root - INFO - ****** Saving Customer Info ********
+2022-07-19 16:02:17,978 - root - INFO - ****** Saving Customer Info ********
+2022-07-19 16:02:17,978 - root - INFO - ****** Saving Customer Info ********
+2022-07-19 16:02:17,978 - root - INFO - ********* Add customer Validation started ********
+2022-07-19 16:02:17,978 - root - INFO - ********* Add customer Validation started ********
+2022-07-19 16:02:17,978 - root - INFO - ********* Add customer Validation started ********
+2022-07-19 16:02:18,251 - root - INFO - ***** Add Customer Testcase Passed *******
+2022-07-19 16:02:18,251 - root - INFO - ***** Add Customer Testcase Passed *******
+2022-07-19 16:02:18,251 - root - INFO - ***** Add Customer Testcase Passed *******
+2022-07-19 16:02:30,046 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 16:02:30,046 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 16:02:30,046 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 16:08:28,121 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 16:08:28,121 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 16:08:28,121 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 16:08:37,812 - root - INFO - *****Login Successful********
+2022-07-19 16:08:37,812 - root - INFO - *****Login Successful********
+2022-07-19 16:08:37,812 - root - INFO - *****Login Successful********
+2022-07-19 16:08:37,812 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 16:08:37,812 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 16:08:37,812 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 16:08:40,344 - root - INFO - ********* Adding Customer Details *******
+2022-07-19 16:08:40,344 - root - INFO - ********* Adding Customer Details *******
+2022-07-19 16:08:40,344 - root - INFO - ********* Adding Customer Details *******
+2022-07-19 16:08:44,835 - root - INFO - ****** Saving Customer Info ********
+2022-07-19 16:08:44,835 - root - INFO - ****** Saving Customer Info ********
+2022-07-19 16:08:44,835 - root - INFO - ****** Saving Customer Info ********
+2022-07-19 16:08:44,835 - root - INFO - ********* Add customer Validation started ********
+2022-07-19 16:08:44,835 - root - INFO - ********* Add customer Validation started ********
+2022-07-19 16:08:44,835 - root - INFO - ********* Add customer Validation started ********
+2022-07-19 16:08:45,095 - root - INFO - ***** Add Customer Testcase Passed *******
+2022-07-19 16:08:45,095 - root - INFO - ***** Add Customer Testcase Passed *******
+2022-07-19 16:08:45,095 - root - INFO - ***** Add Customer Testcase Passed *******
+2022-07-19 16:08:56,776 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 16:08:56,776 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 16:08:56,776 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 16:12:33,804 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 16:12:33,804 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 16:12:33,804 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 16:12:43,989 - root - INFO - *****Login Successful********
+2022-07-19 16:12:43,989 - root - INFO - *****Login Successful********
+2022-07-19 16:12:43,989 - root - INFO - *****Login Successful********
+2022-07-19 16:12:43,989 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 16:12:43,989 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 16:12:43,989 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 16:12:45,819 - root - INFO - ********* Adding Customer Details *******
+2022-07-19 16:12:45,819 - root - INFO - ********* Adding Customer Details *******
+2022-07-19 16:12:45,819 - root - INFO - ********* Adding Customer Details *******
+2022-07-19 16:12:50,434 - root - INFO - ****** Saving Customer Info ********
+2022-07-19 16:12:50,434 - root - INFO - ****** Saving Customer Info ********
+2022-07-19 16:12:50,434 - root - INFO - ****** Saving Customer Info ********
+2022-07-19 16:12:50,434 - root - INFO - ********* Add customer Validation started ********
+2022-07-19 16:12:50,434 - root - INFO - ********* Add customer Validation started ********
+2022-07-19 16:12:50,434 - root - INFO - ********* Add customer Validation started ********
+2022-07-19 16:12:50,470 - root - INFO - ***** Add Customer Testcase Passed *******
+2022-07-19 16:12:50,470 - root - INFO - ***** Add Customer Testcase Passed *******
+2022-07-19 16:12:50,470 - root - INFO - ***** Add Customer Testcase Passed *******
+2022-07-19 16:13:02,349 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 16:13:02,349 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 16:13:02,349 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 16:13:10,365 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 16:13:10,365 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 16:13:10,365 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-19 16:13:20,091 - root - INFO - *****Login Successful********
+2022-07-19 16:13:20,091 - root - INFO - *****Login Successful********
+2022-07-19 16:13:20,091 - root - INFO - *****Login Successful********
+2022-07-19 16:13:20,091 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 16:13:20,091 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 16:13:20,091 - root - INFO - ******* Starting Add Customer*******
+2022-07-19 16:13:36,030 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 16:13:36,030 - root - INFO - ************ Login Test case Passed *********
+2022-07-19 16:13:36,030 - root - INFO - ************ Login Test case Passed *********

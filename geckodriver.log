@@ -1,0 +1,429 @@
+1657889811275	geckodriver	INFO	Listening on 127.0.0.1:59646
+1657889814344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileWfk9BN"
+1657889815364	geckodriver	INFO	Listening on 127.0.0.1:59654
+1657889818412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileQ2ZJOg"
+1657889818786	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59655
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileQ2ZJOg\\search.json.mozlz4", (void 0)))
+1657889820888	Marionette	INFO	Listening on port 59692
+DevTools listening on ws://localhost:59655/devtools/browser/d3b69f66-4fad-41c8-9ee6-145cdbef1307
+Read port: 59692
+1657889821004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1657889821372	Marionette	INFO	Stopped listening on port 59692
+[Parent 1876, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://services-settings/Utils.jsm, line 153: TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1657890723127	geckodriver	INFO	Listening on 127.0.0.1:57372
+1657890726181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57373" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileJfc72F"
+1657890726584	Marionette	INFO	Marionette enabled
+1657890726592	Marionette	INFO	Listening on port 57384
+WebDriver BiDi listening on ws://localhost:57373
+Read port: 57384
+1657890726743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileJfc72F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57373/devtools/browser/e7b4ec85-7ed4-4c3e-aad3-7785ab71c0f9
+1657890733042	Marionette	INFO	Stopped listening on port 57384
+1657890733954	geckodriver	INFO	Listening on 127.0.0.1:57433
+1657890737000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57434" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofile0tP7m4"
+1657890737336	Marionette	INFO	Marionette enabled
+1657890737346	Marionette	INFO	Listening on port 57444
+WebDriver BiDi listening on ws://localhost:57434
+Read port: 57444
+1657890737655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofile0tP7m4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57434/devtools/browser/52cdffc2-4840-442b-a717-34551ae14395
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657890750479	Marionette	INFO	Stopped listening on port 57444
+1657890875384	geckodriver	INFO	Listening on 127.0.0.1:57559
+1657890878427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57560" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilez7kl9F"
+1657890878781	Marionette	INFO	Marionette enabled
+1657890878788	Marionette	INFO	Listening on port 57570
+WebDriver BiDi listening on ws://localhost:57560
+Read port: 57570
+1657890878972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilez7kl9F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57560/devtools/browser/ef62d4cf-ede5-4fe0-8096-4645df0bf252
+1657890885324	Marionette	INFO	Stopped listening on port 57570
+1657890886319	geckodriver	INFO	Listening on 127.0.0.1:57620
+1657890889358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofiledqFi8W"
+1657890889700	Marionette	INFO	Marionette enabled
+1657890889711	Marionette	INFO	Listening on port 57631
+WebDriver BiDi listening on ws://localhost:57621
+Read port: 57631
+1657890890006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofiledqFi8W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57621/devtools/browser/7292ed4b-8e4d-4dab-a7ff-383ed10dd377
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657890901617	Marionette	INFO	Stopped listening on port 57631
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8, line 2: NS_ERROR_NOT_INITIALIZED: 
+1657902127775	geckodriver	INFO	Listening on 127.0.0.1:60106
+1657902130841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60107" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofile7BxAC9"
+1657902131214	Marionette	INFO	Marionette enabled
+1657902131225	Marionette	INFO	Listening on port 60118
+WebDriver BiDi listening on ws://localhost:60107
+Read port: 60118
+1657902131408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofile7BxAC9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60107/devtools/browser/5055079d-9798-4832-bb16-df569a06e76e
+1657902137592	Marionette	INFO	Stopped listening on port 60118
+1657902138542	geckodriver	INFO	Listening on 127.0.0.1:60169
+1657902141589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60170" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileiCW3Yf"
+1657902141934	Marionette	INFO	Marionette enabled
+1657902141942	Marionette	INFO	Listening on port 60180
+WebDriver BiDi listening on ws://localhost:60170
+Read port: 60180
+1657902142099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileiCW3Yf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60170/devtools/browser/d27a1474-e9e8-4a7c-ae9a-ecd11675b481
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657902154948	Marionette	INFO	Stopped listening on port 60180
+1657924283642	geckodriver	INFO	Listening on 127.0.0.1:62850
+1657924286688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilerTkHld"
+1657924287204	Marionette	INFO	Marionette enabled
+1657924287213	Marionette	INFO	Listening on port 62862
+WebDriver BiDi listening on ws://localhost:62851
+Read port: 62862
+1657924287379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilerTkHld\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62851/devtools/browser/bcaa3339-e1a3-4d2c-972e-a3c162d0c92f
+1657924313127	Marionette	INFO	Stopped listening on port 62862
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657924414573	geckodriver	INFO	Listening on 127.0.0.1:62965
+1657924417632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62966" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilejyhroD"
+1657924417977	Marionette	INFO	Marionette enabled
+1657924417987	Marionette	INFO	Listening on port 62976
+WebDriver BiDi listening on ws://localhost:62966
+Read port: 62976
+1657924418152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilejyhroD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62966/devtools/browser/ac003e19-3933-4bd7-974e-3f8633784271
+1657924460588	Marionette	INFO	Stopped listening on port 62976
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657924566449	geckodriver	INFO	Listening on 127.0.0.1:63170
+1657924569491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileSEFXQu"
+1657924569850	Marionette	INFO	Marionette enabled
+1657924569856	Marionette	INFO	Listening on port 63182
+WebDriver BiDi listening on ws://localhost:63171
+Read port: 63182
+1657924570016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileSEFXQu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63171/devtools/browser/70ed17b2-058f-4fa7-b556-b11146e49636
+1657924610512	Marionette	INFO	Stopped listening on port 63182
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657924685259	geckodriver	INFO	Listening on 127.0.0.1:63350
+1657924688310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilePtqwoD"
+1657924688691	Marionette	INFO	Marionette enabled
+1657924688698	Marionette	INFO	Listening on port 63362
+WebDriver BiDi listening on ws://localhost:63351
+Read port: 63362
+1657924688857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilePtqwoD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63351/devtools/browser/481d690e-9903-4a59-be1f-2bad8730dff6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657924706258	Marionette	INFO	Stopped listening on port 63362
+1657925831639	geckodriver	INFO	Listening on 127.0.0.1:63967
+1657925834692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63968" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilemJTld2"
+1657925835046	Marionette	INFO	Marionette enabled
+1657925835056	Marionette	INFO	Listening on port 63979
+WebDriver BiDi listening on ws://localhost:63968
+Read port: 63979
+1657925835211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilemJTld2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63968/devtools/browser/0c165579-c877-4976-b015-2c9bbf349bfb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657925850882	Marionette	INFO	Stopped listening on port 63979
+1657926901440	geckodriver	INFO	Listening on 127.0.0.1:64548
+1657926904511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileEg0z7Q"
+1657926904859	Marionette	INFO	Marionette enabled
+1657926904865	Marionette	INFO	Listening on port 64559
+WebDriver BiDi listening on ws://localhost:64549
+Read port: 64559
+1657926905048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileEg0z7Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64549/devtools/browser/bebba63e-d746-471d-bc15-28cec1fce90e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657926960492	Marionette	INFO	Stopped listening on port 64559
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657927132756	geckodriver	INFO	Listening on 127.0.0.1:64724
+1657927135800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64725" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilepzuyLs"
+1657927136163	Marionette	INFO	Marionette enabled
+1657927136172	Marionette	INFO	Listening on port 64736
+WebDriver BiDi listening on ws://localhost:64725
+Read port: 64736
+1657927136327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilepzuyLs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64725/devtools/browser/4b699770-9353-496b-afdb-2a69f9bdc5c2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657927183694	Marionette	INFO	Stopped listening on port 64736
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657928627670	geckodriver	INFO	Listening on 127.0.0.1:49224
+1657928630696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileFOI8kR"
+1657928631059	Marionette	INFO	Marionette enabled
+1657928631070	Marionette	INFO	Listening on port 49235
+WebDriver BiDi listening on ws://localhost:49225
+Read port: 49235
+1657928631229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileFOI8kR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49225/devtools/browser/7e776d24-0845-47a9-8714-b2ffe9dc4042
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657928683053	Marionette	INFO	Stopped listening on port 49235
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657929943988	geckodriver	INFO	Listening on 127.0.0.1:50165
+1657929947046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50166" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilepkZzAY"
+1657929947414	Marionette	INFO	Marionette enabled
+1657929947423	Marionette	INFO	Listening on port 50178
+WebDriver BiDi listening on ws://localhost:50166
+Read port: 50178
+1657929947567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilepkZzAY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50166/devtools/browser/e40451ad-c9f1-4d4c-ad35-e94c348e7b69
+1657929950531	Marionette	INFO	Stopped listening on port 50178
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1657929951487	geckodriver	INFO	Listening on 127.0.0.1:50221
+1657929954520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50222" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileRqHReU"
+1657929954856	Marionette	INFO	Marionette enabled
+1657929954865	Marionette	INFO	Listening on port 50233
+WebDriver BiDi listening on ws://localhost:50222
+Read port: 50233
+1657929955055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileRqHReU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50222/devtools/browser/4db59c5b-128c-4011-8418-db88a00da5f9
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657929966268	Marionette	INFO	Stopped listening on port 50233
+1657930173459	geckodriver	INFO	Listening on 127.0.0.1:50390
+1657930176524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50391" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilexLnTnl"
+1657930176876	Marionette	INFO	Marionette enabled
+1657930176884	Marionette	INFO	Listening on port 50402
+WebDriver BiDi listening on ws://localhost:50391
+Read port: 50402
+1657930177037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilexLnTnl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50391/devtools/browser/00509771-815a-484e-b55b-d22205a941c5
+1657930179893	Marionette	INFO	Stopped listening on port 50402
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1657930180834	geckodriver	INFO	Listening on 127.0.0.1:50446
+1657930183870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofile2ViaiB"
+1657930184198	Marionette	INFO	Marionette enabled
+1657930184206	Marionette	INFO	Listening on port 50457
+Read port: 50457
+WebDriver BiDi listening on ws://localhost:50447
+1657930184361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofile2ViaiB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50447/devtools/browser/a85113fb-a220-41f7-8848-653e6f522e3b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657930195942	Marionette	INFO	Stopped listening on port 50457
+1658009755509	geckodriver	INFO	Listening on 127.0.0.1:52199
+1658009758578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52200" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofile8Duexn"
+1658009759548	Marionette	INFO	Marionette enabled
+1658009759559	Marionette	INFO	Listening on port 52213
+WebDriver BiDi listening on ws://localhost:52200
+Read port: 52213
+1658009759742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofile8Duexn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52200/devtools/browser/07f1ba9b-24a9-4b9f-a9a7-e8f407be6cbb
+1658009763528	Marionette	INFO	Stopped listening on port 52213
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nagav\AppData\Local\Temp\rust_mozprofile8Duexn\protections.sqlite
+1658009764641	geckodriver	INFO	Listening on 127.0.0.1:52255
+1658009767869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52256" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileLLLfBH"
+1658009768348	Marionette	INFO	Marionette enabled
+1658009768360	Marionette	INFO	Listening on port 52267
+WebDriver BiDi listening on ws://localhost:52256
+Read port: 52267
+1658009768541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileLLLfBH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52256/devtools/browser/eda599c6-b5a7-47ee-9c67-905d9b7ca0b3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658009780948	Marionette	INFO	Stopped listening on port 52267
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8, line 2: NS_ERROR_NOT_INITIALIZED: 
+1658009959751	geckodriver	INFO	Listening on 127.0.0.1:52540
+1658009962815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileH9c2KO"
+1658009963331	Marionette	INFO	Marionette enabled
+1658009963338	Marionette	INFO	Listening on port 52569
+WebDriver BiDi listening on ws://localhost:52541
+Read port: 52569
+1658009963527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileH9c2KO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52541/devtools/browser/ffc8a274-f26a-422c-a961-0379acab34db
+1658009966952	Marionette	INFO	Stopped listening on port 52569
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1658009968064	geckodriver	INFO	Listening on 127.0.0.1:52613
+1658009971356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52614" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilemq08Kw"
+1658009971917	Marionette	INFO	Marionette enabled
+1658009971927	Marionette	INFO	Listening on port 52624
+WebDriver BiDi listening on ws://localhost:52614
+Read port: 52624
+1658009972139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilemq08Kw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52614/devtools/browser/12d365aa-bb93-464e-9161-30dc3780b196
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658009984269	Marionette	INFO	Stopped listening on port 52624
+1658010602875	geckodriver	INFO	Listening on 127.0.0.1:51064
+1658010605931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51065" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileZMomZS"
+1658010606282	Marionette	INFO	Marionette enabled
+1658010606291	Marionette	INFO	Listening on port 51076
+WebDriver BiDi listening on ws://localhost:51065
+Read port: 51076
+1658010606450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileZMomZS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51065/devtools/browser/286e4773-40e3-43d2-966e-55bddd25f6ec
+1658010609498	Marionette	INFO	Stopped listening on port 51076
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1658010610471	geckodriver	INFO	Listening on 127.0.0.1:51120
+1658010613513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileOLGKnE"
+1658010613850	Marionette	INFO	Marionette enabled
+1658010613859	Marionette	INFO	Listening on port 51132
+WebDriver BiDi listening on ws://localhost:51121
+Read port: 51132
+1658010614035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileOLGKnE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51121/devtools/browser/ded6d31d-6171-4a32-abe9-797b8f0073c6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658010625328	Marionette	INFO	Stopped listening on port 51132
+1658010718748	geckodriver	INFO	Listening on 127.0.0.1:51260
+1658010721833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofile9BWVAK"
+1658010722201	Marionette	INFO	Marionette enabled
+1658010722210	Marionette	INFO	Listening on port 51271
+WebDriver BiDi listening on ws://localhost:51261
+Read port: 51271
+1658010722355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofile9BWVAK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51261/devtools/browser/67b792a3-98a9-4f90-8cb1-7e507f4db59c
+1658010725083	Marionette	INFO	Stopped listening on port 51271
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1658010726124	geckodriver	INFO	Listening on 127.0.0.1:51315
+1658010729163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51316" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofiletDGXLL"
+1658010729509	Marionette	INFO	Marionette enabled
+1658010729517	Marionette	INFO	Listening on port 51329
+WebDriver BiDi listening on ws://localhost:51316
+Read port: 51329
+1658010729674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofiletDGXLL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51316/devtools/browser/c4170dab-5d56-46ca-9c7e-a104453be952
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658010741007	Marionette	INFO	Stopped listening on port 51329
+1658010784712	geckodriver	INFO	Listening on 127.0.0.1:51407
+1658010787774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51408" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofile2jqD1x"
+1658010788130	Marionette	INFO	Marionette enabled
+1658010788138	Marionette	INFO	Listening on port 51418
+WebDriver BiDi listening on ws://localhost:51408
+Read port: 51418
+1658010788315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofile2jqD1x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51408/devtools/browser/e1c18d14-c4ea-4fcb-8b1d-5c1028bfc518
+1658010791134	Marionette	INFO	Stopped listening on port 51418
+1658010792255	geckodriver	INFO	Listening on 127.0.0.1:51456
+1658010795309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileUQRrBv"
+1658010795654	Marionette	INFO	Marionette enabled
+1658010795662	Marionette	INFO	Listening on port 51467
+WebDriver BiDi listening on ws://localhost:51457
+Read port: 51467
+1658010795835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileUQRrBv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51457/devtools/browser/5fa2c2c8-73cc-4725-bf2e-6e707ec8392a
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658010806935	Marionette	INFO	Stopped listening on port 51467
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8, line 2: NS_ERROR_NOT_INITIALIZED: 
+1658014728261	geckodriver	INFO	Listening on 127.0.0.1:65525
+1658014731324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65526" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilerhHGvF"
+1658014731854	Marionette	INFO	Marionette enabled
+1658014731861	Marionette	INFO	Listening on port 49154
+Read port: 49154
+WebDriver BiDi listening on ws://localhost:65526
+1658014732058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilerhHGvF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65526/devtools/browser/2a3dfba7-108a-4060-b653-647f802e82ae
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658014790275	Marionette	INFO	Stopped listening on port 49154
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658265183939	geckodriver	INFO	Listening on 127.0.0.1:63805
+1658265187027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63806" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileInE4v2"
+1658265187881	Marionette	INFO	Marionette enabled
+1658265187890	Marionette	INFO	Listening on port 63817
+Read port: 63817
+WebDriver BiDi listening on ws://localhost:63806
+1658265188076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileInE4v2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63806/devtools/browser/8fccd8b9-cb13-4174-b5fc-cb9f9dcfc387
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658265200620	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:78223
+n.ajax@https://admin-demo.nopcommerce.com/js/HomeIndex.Footer.scripts.js?v=p85S1lLwdXzndIrgTxy2jRef03c:86:4297
+t@https://admin-demo.nopcommerce.com/js/HomeIndex.Footer.scripts.js?v=p85S1lLwdXzndIrgTxy2jRef03c:92:42174
+initOnce@https://admin-demo.nopcommerce.com/js/HomeIndex.Footer.scripts.js?v=p85S1lLwdXzndIrgTxy2jRef03c:92:42576
+init@https://admin-demo.nopcommerce.com/js/HomeIndex.Footer.scripts.js?v=p85S1lLwdXzndIrgTxy2jRef03c:92:43224
+@https://admin-demo.nopcommerce.com/admin/:2517:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:30005
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:30307
+1658265223038	Marionette	INFO	Stopped listening on port 63817
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilecJIsLx"
+1658265204577	Marionette	INFO	Marionette enabled
+1658265204586	Marionette	INFO	Listening on port 63886
+WebDriver BiDi listening on ws://localhost:63875
+Read port: 63886
+1658265204754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilecJIsLx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63875/devtools/browser/a757fcbe-7023-45be-b2f9-cc3d0ccfbb67
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658265216034	Marionette	INFO	Stopped listening on port 63886

@@ -1,0 +1,6 @@
+@echo off
+
+pytest -v --capture=tee-sys -m"sanity"  --html=Reports\sanityreport.html Testcases/ --browser chrome
+
+:: pytest -v --capture=tee-sys -m"regression"  --html=Reports\sanityreport.html Testcases/ --browser chrome
+
