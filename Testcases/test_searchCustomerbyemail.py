@@ -32,14 +32,16 @@ class Test_004_SearchCustomer:
         self.searchcust = SearchCustomer(setup)
         self.searchcust.setEmail("victoria_victoria@nopCommerce.com")
         self.searchcust.clickSearch()
-        if self.searchcust.verifyEmail("victoria_victoria@nopCommerce.com")== True:
-            self.logger.info("********** Test Case Passed *************")
-            assert True
+        time.sleep(5)
+        status = self.searchcust.searchCustomerByEmail("victoria_victoria@nopCommerce.com")
+        #assert True == status
+        if status == True:
+            self.logger.info("**************Test case Passed! *************")
         else:
-            setup.save_screenshot(".\\Screenshots\\"+"t_searccust_email.png")
-            self.logger.error("********** Test Case Failed *************")
-
-        self.driver.close()
+            setup.save_screenshot(".\\Screenshots\\" + "t_searchcust.png")
+            self.logger.error("************ Test case Failed ***************")
+        self.logger.info("***************  TC_SearchCustomerByEmail_004 Finished  *********** ")
+        setup.close()
 
 
 
