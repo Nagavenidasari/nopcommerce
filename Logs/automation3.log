@@ -529,3 +529,185 @@
 2022-07-21 09:03:58,632 - root - INFO - ******* Searching Customer by Email *******
 2022-07-21 09:04:03,870 - root - INFO - **************Test case Passed! *************
 2022-07-21 09:04:03,870 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2022-07-21 09:24:12,109 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-21 09:24:22,157 - root - INFO - *****Login Successful********
+2022-07-21 09:24:22,157 - root - INFO - ******* Starting Add Customer*******
+2022-07-21 09:24:24,522 - root - INFO - ********* Adding Customer Details *******
+2022-07-21 09:24:32,168 - root - INFO - ****** Saving Customer Info ********
+2022-07-21 09:24:32,168 - root - INFO - ********* Add customer Validation started ********
+2022-07-21 09:31:35,983 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-21 09:31:46,767 - root - INFO - *****Login Successful********
+2022-07-21 09:31:46,767 - root - INFO - ******* Starting Add Customer*******
+2022-07-21 09:31:48,684 - root - INFO - ********* Adding Customer Details *******
+2022-07-21 09:31:56,570 - root - INFO - ****** Saving Customer Info ********
+2022-07-21 09:31:56,570 - root - INFO - ********* Add customer Validation started ********
+2022-07-21 09:31:56,622 - root - INFO - ***** Add Customer Testcase Passed *******
+2022-07-21 09:31:56,747 - root - INFO - *********Ending Add Customer Test ********
+2022-07-21 09:36:58,178 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-21 09:37:08,582 - root - INFO - *****Login Successful********
+2022-07-21 09:37:08,582 - root - INFO - ******* Starting Add Customer*******
+2022-07-21 09:37:10,682 - root - INFO - ********* Adding Customer Details *******
+2022-07-21 09:38:54,039 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-21 09:39:03,970 - root - INFO - *****Login Successful********
+2022-07-21 09:39:03,970 - root - INFO - ******* Starting Add Customer*******
+2022-07-21 09:39:05,871 - root - INFO - ********* Adding Customer Details *******
+2022-07-21 09:47:07,024 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-21 09:47:25,845 - root - INFO - *****Login Successful********
+2022-07-21 09:47:25,845 - root - INFO - ******* Starting Add Customer*******
+2022-07-21 09:48:11,459 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-21 09:48:21,549 - root - INFO - *****Login Successful********
+2022-07-21 09:48:21,549 - root - INFO - ******* Starting Add Customer*******
+2022-07-21 09:48:27,192 - root - INFO - ********* Adding Customer Details *******
+2022-07-21 12:07:38,140 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-21 12:07:48,277 - root - INFO - *****Login Successful********
+2022-07-21 12:07:48,281 - root - INFO - ******* Starting Add Customer*******
+2022-07-21 12:07:50,425 - root - INFO - ********* Adding Customer Details *******
+2022-07-21 12:10:26,099 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-21 12:10:36,232 - root - INFO - *****Login Successful********
+2022-07-21 12:10:36,232 - root - INFO - ******* Starting Add Customer*******
+2022-07-21 12:10:38,289 - root - INFO - ********* Adding Customer Details *******
+2022-07-21 12:13:01,307 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-21 12:13:11,471 - root - INFO - *****Login Successful********
+2022-07-21 12:13:11,471 - root - INFO - ******* Starting Add Customer*******
+2022-07-21 12:13:13,520 - root - INFO - ********* Adding Customer Details *******
+2022-07-21 12:14:33,680 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-21 12:14:44,208 - root - INFO - *****Login Successful********
+2022-07-21 12:14:44,208 - root - INFO - ******* Starting Add Customer*******
+2022-07-21 12:14:46,382 - root - INFO - ********* Adding Customer Details *******
+2022-07-21 12:15:46,346 - root - INFO - ****** Test_003_AddCustomer******
+2022-07-21 12:15:56,351 - root - INFO - *****Login Successful********
+2022-07-21 12:15:56,351 - root - INFO - ******* Starting Add Customer*******
+2022-07-21 12:15:58,500 - root - INFO - ********* Adding Customer Details *******
+2022-07-21 12:16:06,481 - root - INFO - ****** Saving Customer Info ********
+2022-07-21 12:16:06,481 - root - INFO - ********* Add customer Validation started ********
+2022-07-26 10:20:39,921 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 10:20:50,145 - root - INFO - *****Login Successful********
+2022-07-26 10:20:50,146 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 10:28:32,056 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 10:28:43,880 - root - INFO - *****Login Successful********
+2022-07-26 10:28:43,880 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 10:28:47,894 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 10:30:30,912 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 10:30:41,128 - root - INFO - *****Login Successful********
+2022-07-26 10:30:41,129 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 10:30:45,131 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 10:32:39,631 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 10:32:48,912 - root - INFO - *****Login Successful********
+2022-07-26 10:32:48,912 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 10:32:52,921 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 10:46:12,332 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 10:46:22,468 - root - INFO - *****Login Successful********
+2022-07-26 10:46:22,468 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 10:46:26,471 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 10:46:32,134 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 10:56:19,129 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 10:56:29,377 - root - INFO - *****Login Successful********
+2022-07-26 10:56:29,377 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 10:56:33,379 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 10:56:40,614 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 11:02:47,301 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 11:02:57,374 - root - INFO - *****Login Successful********
+2022-07-26 11:02:57,374 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 11:03:01,377 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 11:03:06,067 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 11:03:34,178 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 11:03:44,299 - root - INFO - *****Login Successful********
+2022-07-26 11:03:44,299 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 11:03:48,314 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 11:03:53,676 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 11:04:44,825 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 11:04:54,404 - root - INFO - *****Login Successful********
+2022-07-26 11:04:54,404 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 11:04:58,414 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 11:05:03,507 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 11:09:00,052 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 11:09:10,177 - root - INFO - *****Login Successful********
+2022-07-26 11:09:10,177 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 11:09:14,186 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 11:09:19,126 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 11:13:07,764 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 11:13:17,417 - root - INFO - *****Login Successful********
+2022-07-26 11:13:17,417 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 11:13:21,422 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 11:13:26,362 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 11:18:41,878 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 11:18:52,606 - root - INFO - *****Login Successful********
+2022-07-26 11:18:52,606 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 11:18:56,623 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 11:19:01,948 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 11:21:32,452 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 11:21:42,681 - root - INFO - *****Login Successful********
+2022-07-26 11:21:42,681 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 11:21:46,691 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 11:21:51,359 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 11:24:49,004 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 11:24:59,344 - root - INFO - *****Login Successful********
+2022-07-26 11:24:59,344 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 11:25:03,360 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 11:25:08,042 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 15:01:25,637 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 15:01:35,569 - root - INFO - *****Login Successful********
+2022-07-26 15:01:35,569 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 15:01:39,574 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 15:01:45,129 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 15:12:28,231 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 15:12:38,022 - root - INFO - *****Login Successful********
+2022-07-26 15:12:38,022 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 15:12:42,034 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 15:12:47,071 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 15:13:36,448 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 15:13:46,183 - root - INFO - *****Login Successful********
+2022-07-26 15:13:46,183 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 15:13:50,201 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 15:13:55,159 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 15:53:57,629 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 15:54:07,285 - root - INFO - *****Login Successful********
+2022-07-26 15:54:07,285 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 15:54:11,299 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 15:54:15,957 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 15:56:36,360 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 15:56:46,080 - root - INFO - *****Login Successful********
+2022-07-26 15:56:46,080 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 15:56:50,101 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 15:56:54,777 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 16:00:32,871 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 16:00:42,569 - root - INFO - *****Login Successful********
+2022-07-26 16:00:42,569 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 16:00:46,583 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 16:00:51,549 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 16:02:44,975 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 16:02:54,430 - root - INFO - *****Login Successful********
+2022-07-26 16:02:54,430 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 16:02:58,434 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 16:03:03,477 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 16:07:26,205 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 16:07:36,029 - root - INFO - *****Login Successful********
+2022-07-26 16:07:36,029 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 16:07:40,043 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 16:07:44,934 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 16:09:48,855 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 16:09:58,656 - root - INFO - *****Login Successful********
+2022-07-26 16:09:58,656 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 16:10:02,679 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 16:10:07,654 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 16:12:18,808 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 16:12:28,596 - root - INFO - *****Login Successful********
+2022-07-26 16:12:28,596 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 16:12:32,607 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 16:12:37,556 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 16:12:37,977 - root - ERROR - ************ Test case Failed ***************
+2022-07-26 16:12:37,977 - root - INFO - ***************  TC_Orderstatus 005 is Finished  *********** 
+2022-07-26 16:15:06,219 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 16:15:15,915 - root - INFO - *****Login Successful********
+2022-07-26 16:15:15,915 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 16:15:19,922 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 16:15:24,841 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 16:15:25,170 - root - ERROR - ************ Test case Failed ***************
+2022-07-26 16:15:25,170 - root - INFO - ***************  TC_Orderstatus 005 is Finished  *********** 
+2022-07-26 16:16:20,385 - root - INFO - ****** Test_005_Searchorderstatus******
+2022-07-26 16:16:30,256 - root - INFO - *****Login Successful********
+2022-07-26 16:16:30,256 - root - INFO - ******* Starting Search Orderstatus *******
+2022-07-26 16:16:34,264 - root - INFO - ********* Clicking on Sales*********
+2022-07-26 16:16:39,176 - root - INFO - ********** Checking the Pending Status*************
+2022-07-26 16:16:39,319 - root - INFO - **************Test case Passed! *************
+2022-07-26 16:16:39,320 - root - INFO - ***************  TC_Orderstatus 005 is Finished  *********** 

@@ -467,3 +467,45 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 1658410743500	Marionette	INFO	Stopped listening on port 51787
+1658849425261	geckodriver	INFO	Listening on 127.0.0.1:60846
+1658849428310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileP1k3bn"
+1658849429076	Marionette	INFO	Marionette enabled
+1658849429082	Marionette	INFO	Listening on port 60858
+WebDriver BiDi listening on ws://localhost:60847
+Read port: 60858
+1658849429322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileP1k3bn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60847/devtools/browser/45ad5b52-3e23-4b13-a9e2-a2cf2d02a6cc
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658849460363	Marionette	INFO	Stopped listening on port 60858
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658849554666	geckodriver	INFO	Listening on 127.0.0.1:60986
+1658849557730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileHu6Bd2"
+1658849558033	Marionette	INFO	Marionette enabled
+1658849558039	Marionette	INFO	Listening on port 60998
+WebDriver BiDi listening on ws://localhost:60987
+Read port: 60998
+1658849558147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofileHu6Bd2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60987/devtools/browser/eb5eee9c-e3d0-4b65-bd0d-61d22b18fc55
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658849588533	Marionette	INFO	Stopped listening on port 60998
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658850367392	geckodriver	INFO	Listening on 127.0.0.1:61186
+1658850370435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilenyyWJm"
+1658850370742	Marionette	INFO	Marionette enabled
+1658850370748	Marionette	INFO	Listening on port 61196
+WebDriver BiDi listening on ws://localhost:61187
+Read port: 61196
+1658850370861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagav\\AppData\\Local\\Temp\\rust_mozprofilenyyWJm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61187/devtools/browser/0a8ee8ce-9998-4464-87f9-e269923a373d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658850431691	Marionette	INFO	Stopped listening on port 61196
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
